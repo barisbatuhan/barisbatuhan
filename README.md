@@ -14,7 +14,7 @@ I am a M.Sc. Student @ [KUIS AI](https://ai.ku.edu.tr/) - [IUI](https://iui.ku.e
 
 - [**Multimodal Emotion Recognitition in Comics**](https://github.com/inzva/emotion-recognition-drawings)
 
-- [**Face Generation In Golden Age Comics:**] Worked on Context-based Face Generation in Golden Age Comics (US Comics between the 1930s-1950s). The model predicts the masked face by giving consecutive comic book panels to the model with a randomly selected face masked at the last frame.
+- [**Face Generation In Golden Age Comics:**](https://github.com/barisbatuhan/SSuperGAN) Worked on Context-based Face Generation in Golden Age Comics (US Comics between the 1930s-1950s). The model predicts the masked face by giving consecutive comic book panels to the model with a randomly selected face masked at the last frame.
 
 
 <!--
