@@ -11,7 +11,7 @@ I am a PhD Student @ [KUIS AI](https://ai.ku.edu.tr/) - [IUI](https://iui.ku.edu
 
 # ⚡ Projects
 
-- [**DASS-Det:**](https://github.com/barisbatuhan/DASS_Detector) Face & body detection in drawings, comic books, cartoons, etc. Inference code can be also accessed from [this link](https://github.com/barisbatuhan/DASS_Det_Inference).
+- [**DASS-Detector:**](https://github.com/barisbatuhan/DASS_Detector) Face & body detection in drawings, comic books, cartoons, etc. Inference code can be also accessed from [this link](https://github.com/barisbatuhan/DASS_Det_Inference). Paper of the project can be viewed from [here](https://arxiv.org/abs/2211.10641).
 
 - [**Comic Annotator:**](https://github.com/barisbatuhan/ComicAnnotator) An annotator application implemented with Tkinter that is capable of bounding box drawing, character recognition labeling, speech bubble-face-character asssociation, and much more.
 
