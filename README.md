@@ -4,10 +4,11 @@ I am a PhD Student @ [KUIS AI](https://ai.ku.edu.tr/) - [IUI](https://iui.ku.edu
 
 # 📫 Links
 
-- [Website](https://barisbatuhan.github.io/)
 - [CV](https://docs.google.com/document/d/1n1jQHmRx_SDG29gy4IX7imZTzznWo0H5WJ8NzU2BsZo/edit?usp=sharing)
-- [Google Scholar Page](https://scholar.google.com/citations?user=nvt9dGsAAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/barisbatuhan)
+- [Google Scholar Page](https://scholar.google.com/citations?user=nvt9dGsAAAAJ&hl=en)
+- [Website](https://barisbatuhan.github.io/)
+
 
 # ⚡ Projects
 
