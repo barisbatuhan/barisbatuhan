@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a PhD Student @ [KUIS AI](https://ai.ku.edu.tr/) - [IUI](https://iui.ku.edu.tr/) labs and currently working on deep detection and recognition models on drawings, comic books, cartoons and animations. 
+- I am a Research Scientist & Engineer @ [Pixery Labs](https://www.pixerylabs.com/) and currently working on diffusion-based image & character generation and media quality enhancement.
+- In September 2022, I graduated from my M.Sc. degree @ Koç University, [KUIS AI Center](https://ai.ku.edu.tr/). I was a member of [Intelligent User Interfaces](https://iui.ku.edu.tr/) lab and worked on deep detection and recognition models on drawings, comic books, cartoons and animations. 
 
 # 📫 Links
 
